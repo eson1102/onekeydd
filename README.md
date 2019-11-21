@@ -15,5 +15,10 @@ WIN：集合了“”萌咖大佬、老司机、MeowLove “”的系统
 
 ```bash
 ##镜像文件在OneDrive
-wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/dd/master/dd-od.sh && chmod +x dd-od.sh && ./dd-od.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/eson1102/onekeydd/master/dd-od.sh && chmod +x dd-od.sh && ./dd-od.sh
 ```
+
+```bash
+##镜像文件在OneDrive
+wget -N --no-check-certificate https://raw.githubusercontent.com/eson1102/onekeydd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
+```g
