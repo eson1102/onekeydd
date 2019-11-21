@@ -1,6 +1,6 @@
 这是一个Linux一键DD脚本
 
-包括onedirve以及google dirve
+包括onedirve以及Google dirve
 
 非原作者，搬运
 脚本来自https://www.hostloc.com/thread-583956-1-1.html
@@ -19,6 +19,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/eson1102/onekey
 ```
 
 ```bash
-##镜像文件在OneDrive
+##镜像文件在Google Drive
 wget -N --no-check-certificate https://raw.githubusercontent.com/eson1102/onekeydd/master/dd-gd.sh && chmod +x dd-gd.sh && ./dd-gd.sh
 ```g
